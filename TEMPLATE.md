@@ -29,6 +29,6 @@ Stakeholders: Names / Roles / Teams
 | | | |
 
 ## Useful Links
-*Provide a list of related research, posts, and documents that contain detailed information related to the project but aren’t required for understanding the project proposal.*
+*Provide a list of related research, posts and documents that contain detailed information related to the project but aren’t required for understanding the project proposal.*
 
 - Title / Link
